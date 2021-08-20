@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-  const number = 1;
+  const number = 3;
   
   const styles = {
       color: 'orange',
